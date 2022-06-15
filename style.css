@@ -1,0 +1,10 @@
+
+.home_bar:hover{
+   color: aqua;
+   text-decoration:underline;
+}
+
+.quick_bar:hover{
+    /* color: aqua; */
+    background-color: aqua;
+}
