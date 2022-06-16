@@ -51,3 +51,8 @@ function twitter(){
 function signin(){
     window.location.href="https://accounts.hindustantimes.com/?htMoe=79e15a45-72cb-4da0-a678-de84f863d4a3"
 }
+
+
+function Latest(){
+    window.location.href="https://www.hindustantimes.com/latest-news"
+}
