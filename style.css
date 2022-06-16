@@ -8,3 +8,228 @@
     /* color: aqua; */
     background-color: aqua;
 }
+
+
+        /* FOOTER START */
+
+        #footer{
+            /* border: 1px solid red; */
+            width: 100%;
+            height: 1500px;
+            background-color: black;
+            color: white;
+        }
+
+        #center_auto{
+            /* border: 1px solid green; */
+            width: 88%;
+            margin: auto;
+            margin-top: 20px;
+            height: 1480px;
+        }
+
+        #hindustan{
+            /* border: 1px solid green; */
+            display: flex;
+            width: 100%;
+            justify-content: space-between;
+            height: 6%;
+            
+        }
+
+        #hindustan_imag >img{
+            /* border: 1px solid red; */
+            width: 60%;
+            height: 100%;
+            margin-top: 20px;
+
+
+        }
+
+        #googal_image>img{
+            /* border: 1px solid red; */
+            width: 80%;
+            height: 100%;
+            margin-left: 10%;
+            margin-top: 20px;
+        }
+
+        #para1{
+            font-size: 20px;
+            font-family: sans-serif;
+            font-weight: bold;
+        }
+
+        #sub_face{
+            display: flex;
+            justify-content: space-between;
+            /* border: 1px solid green; */
+            width: 100%;
+            height: 3.6%;
+
+
+
+        }
+
+        #form{
+            /* border: 1px solid red; */
+            width: 60%;
+        
+           
+
+        }
+
+        #f_t_w{
+            /* border: 1px solid red; */
+            width: 32%;
+            display: flex;
+        }
+
+        #select_pad {
+            padding: 1.4% 1%;
+            font-size: 20px;
+            font-weight: bold;
+            border-radius: 6%;
+        }
+
+         #email_padding{
+            padding: 1.4% 7%;
+            font-size: 20px;
+            font-weight: bold;
+            border-radius: 6%;
+            margin-left: 20px;
+        }
+
+        #submit_padding{
+            padding: 1.4% 4%;
+            font-size: 20px;
+            font-weight: bold;
+            border-radius: 6%;
+            margin-left: 20px;
+
+        } 
+
+       .gapping{
+        margin-left: 50px;
+        width: 50px;
+        height: 50px;
+       }
+
+       #hr1{
+          margin-top: 30px;
+          
+      }
+
+      
+
+      #lebbt{
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        font-family:sans-serif;
+        /* color: red; */
+        /* background-color: black; */
+        /* cursor: pointer; */
+        /* text-decoration: underline; */
+      }
+
+      #lebbt div{
+        cursor: pointer;
+      }
+      
+      #lebbt div h3{
+        cursor: pointer;
+      }
+
+      #lebbt div h3:hover{
+        cursor: pointer;
+        color: red;
+        text-decoration: underline;
+      }
+
+      #lebbt div h4{
+        cursor: pointer;
+      }
+
+      #lebbt div h4:hover{
+        cursor: pointer;
+        color: red;
+        text-decoration: underline;
+      }
+
+
+
+    
+    
+    
+                     /* black section start */
+
+
+
+      #black_section{
+        font-family:sans-serif;
+        background-color: black;
+      }
+
+
+      #black_section div h3{
+        cursor: pointer;
+        color: white
+      }
+
+      #black_section div h3:hover{
+        cursor: pointer;
+        color: white;
+        text-decoration: underline;
+      }
+
+      #black_section div h4{
+        cursor: pointer;
+      }
+
+      #black_section div h4:hover{
+        cursor: pointer;
+        color: red;
+        text-decoration: underline;
+      }
+
+      #about_section{
+        display: grid;
+        grid-template-columns: repeat(6,1fr);
+      }
+      
+      #Subscription_section{
+        display: grid;
+        grid-template-columns: repeat(6,1fr);
+      }
+
+      #mint_section{
+        display: grid;
+        grid-template-columns: repeat(10,1fr);
+        margin-top: 30px;
+        cursor: pointer;
+      }
+
+      #mint_section>img{
+        width: 120px;
+        height: 40px;
+      }
+
+      #fout_section{
+        display: grid;
+        grid-template-columns: repeat(4,10%);
+        margin-top: 40px;
+        cursor: pointer;
+      }
+
+      #fout_section>img{
+        width: 120px;
+        height: 40px;
+      }
+
+      #hr3{
+        margin-top: 30px;
+      }
+
+               /* black section start */
+
+                       /* FOOTER END */
